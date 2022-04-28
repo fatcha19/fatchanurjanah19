@@ -1,8 +1,7 @@
-## Portfolio
-
+## Portofolio
 ---
 
-### Category Name 1 
+### Zenius Kampus Merdeka
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,7 +11,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](https://colab.research.google.com/github/fatcha19/fatchanurjanah19/blob/main/Fatcha.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
